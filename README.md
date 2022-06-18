@@ -1,5 +1,5 @@
 # Minecraft---Calm-Down-Ethan
-A python game originate from fogleman's Minecraft 
+A python game originate from fogleman's Minecraft (https://github.com/fogleman/Craft)
 
 ### Features
 * puzzles for childrens
